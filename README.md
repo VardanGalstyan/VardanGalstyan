@@ -1,14 +1,16 @@
 ## Hi, I am Vardan I'm a coding enthusiast!!
 
-- 🔭 I am about to launched my first Horse Sharing App!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I am about to launch my first Horse Sharing App - All Stables!
+- 🌱 I’m constantly learning and find it a normal flow of life. 
+- 🕵🏻 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: To find the best Team to work with.
-- ⚡ Fun fact: I play guitar and love photography.
+- 🚀 I play 🎸 and love 📷.
 
----
+<br/>
+<br/>
+<br/>
 
-![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
 
 ---
 
