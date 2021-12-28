@@ -6,12 +6,11 @@
 - 🥅 2022 Goals: To find the best Team to work with.
 - ⚡ Fun fact: I play guitar and love photography.
 
-### Connect with me:
+---
 
+![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
 
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+---
 
 <br />
 
@@ -36,9 +35,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanGalstyan&layout=compact)](https://github.com/VardanGalstyan)
 
----
 
-![Vardan's GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
+
+### Connect with me:
+
+
+[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 
