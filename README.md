@@ -29,11 +29,10 @@
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/redux/redux.png" />][webdevplaylist]
-[<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typscript.png" />][webdevplaylist]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/TypeScript/TypeScript.png" />][webdevplaylist]
 
 <br/>
 <br/>
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanGalstyan&layout=compact)](https://github.com/VardanGalstyan)
 
@@ -41,12 +40,9 @@
 
 ### Connect with me:
 
-
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
 
 [website]: https://codeSTACKr.com
 [facebook]: https://www.facebook.com/vardangalstian/
