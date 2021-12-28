@@ -36,6 +36,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanGalstyan&layout=compact)](https://github.com/VardanGalstyan)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
 
 
 
