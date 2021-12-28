@@ -1,20 +1,17 @@
 ## Hi, I am Vardan I'm a coding enthusiast!!
 
-- 🔭 I am about to launch my first Horse Sharing App - All Stables!
-- 🌱 I’m constantly learning and find it a normal flow of life. 
-- 🕵🏻 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: To find the best Team to work with.
-- 🚀 I play 🎸 and love 📷.
+- 🔭  I am about to launch my first Horse Sharing App - All Stables!
+- 🌱  I’m constantly learning and find it a normal flow of life. 
+- 🕵🏻  I’m looking to collaborate with other content creators
+- 🥅  2022 Goals: To find the best Team to work with.
+- 🚀  I play 🎸 and love 📷.
 
-<br/>
 <br/>
 <br/>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=VardanGalstyan&show_icons=true&theme=radical)
 
 ---
-
-<br />
 
 ### Languages and Tools:
 
@@ -33,6 +30,7 @@
 [<img align="left" alt="Redux" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/redux/redux.png" />][webdevplaylist]
 [<img align="left" alt="TypeScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" />][webdevplaylist]
 
+<br/>
 <br/>
 <br/>
 
