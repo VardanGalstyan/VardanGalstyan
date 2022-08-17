@@ -3,7 +3,7 @@
 - 🔭  I am about to launch my first Horse Sharing App - All Stables!
 - 🌱  I’m constantly learning and find it a normal flow of life. 
 - 🕵🏻  I’m looking to collaborate with other content creators
-- 🥅  2022 Goals: To find the best Team to work with.
+- 🥅  2022 Goals: To find the best Team to work with - Done.
 - 🚀  I play 🎸 and love 📷.
 
 <br/>
