@@ -1,10 +1,10 @@
 ## Hi, I am Vardan I'm a coding enthusiast!!
 
-- 🔭  I am about to launch my first Horse Sharing App - All Stables!
-- 🌱  I’m constantly learning and find it a normal flow of life. 
-- 🕵🏻  I’m looking to collaborate with other content creators
-- 🥅  2022 Goals: To find the best Team to work with - Done.
-- 🚀  I play 🎸 and love 📷.
+- 🔭 I am about to launch my first Horse Sharing App - All Stables!
+- 🌱 I’m constantly learning and find it a normal flow of life.
+- 🕵🏻 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: To find the best Team to work with - Done.
+- 🚀 I play 🎸 and love 📷.
 
 <br/>
 <br/>
@@ -35,22 +35,3 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VardanGalstyan&layout=compact)](https://github.com/VardanGalstyan)
-
----
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[website]: https://codeSTACKr.com
-[facebook]: https://www.facebook.com/vardangalstian/
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://www.instagram.com/vardan.galstyan
-[linkedin]: https://www.linkedin.com/in/vardangalstian/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
