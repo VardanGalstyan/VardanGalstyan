@@ -1,6 +1,8 @@
 <p>
   <p>
     <img src="https://img.shields.io/badge/-JavaScript-F0DB4F?style=flat-square&logo=Javascript&logoColor=323330"/>
+    <img src="https://img.shields.io/badge/-NodeJs-68A063?style=flat-square&logo=Node.js&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Express JS-68A063?style=flat-square&logo=Express&logoColor=white"/>
     <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/-TypeScript-0079BF?style=flat-square&logo=Typescript&logoColor=white"/>
